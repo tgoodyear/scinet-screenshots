@@ -1,0 +1,137 @@
+[
+    {
+        "url": "http://measurement.sc17.org/redgreen/", 
+        "desc": "Booth Connection Status", 
+        "time": 20
+    }, 
+    {
+        "url": "http://measurement-displays.sc17.org:88/main/rogues/?nonav=1", 
+        "desc": "Wifi Rogue APs", 
+        "time": 20
+    }, 
+    {
+        "url": "http://inmon.sc17.org/sflow-rt/app/sc17-weather/html/bigscreen.html", 
+        "desc": "SC17 Weathermap: LAN Link Utilization", 
+        "time": 20
+    }, 
+    {
+        "url": "http://measurement.sc17.org/wins.html", 
+        "desc": "Women in IT Networking at SC (WINS)", 
+        "time": 20
+    }, 
+    {
+        "url": "http://measurement.sc17.org/redgreen/router.html", 
+        "desc": "Booth Connection Status (by Router)", 
+        "time": 20
+    }, 
+    {
+        "url": "http://monitor.sc17.org/showfloor-heatmap/index_traffic.html", 
+        "desc": "Live WiFi Bandwidth Heatmap - Powered by InMon sFlow-RT", 
+        "time": 20
+    }, 
+    {
+        "url": "http://measurement.sc17.org/helpdesk_hours.html", 
+        "desc": "Helpdesk Hours and Other Important Notices", 
+        "time": 20
+    }, 
+    {
+        "url": "http://security.sc17.org/attivo1.html", 
+        "desc": "Attivo Dashboard", 
+        "time": 20
+    }, 
+    {
+        "url": "http://security.sc17.org/attivo2.html", 
+        "desc": "Attivo Events by Hour", 
+        "time": 20
+    }, 
+    {
+        "url": "http://security.sc17.org/splunk1.html", 
+        "desc": "Splunk Statistics", 
+        "time": 20
+    }, 
+    {
+        "url": "http://security.sc17.org/splunk2.html", 
+        "desc": "Splunk Statistics", 
+        "time": 20
+    }, 
+    {
+        "url": "https://inmon.sc17.org/inmsf/Q/sdsc_bigscreen.js", 
+        "desc": "SDSC 100GB Bandwidth Test", 
+        "time": 20
+    }, 
+    {
+        "url": "https://inmon.sc17.org/inmsf/Q/caltech_bigscreen.js", 
+        "desc": "CalTech 100GB Bandwidth Test", 
+        "time": 20
+    }, 
+    {
+        "url": "http://measurement-displays.sc17.org/smokeping/smokeping.cgi?target=MultiTarget-Sites-US-South", 
+        "desc": "Ping Times to Sites in US South", 
+        "time": 20
+    }, 
+    {
+        "url": "http://measurement-displays.sc17.org/smokeping/smokeping.cgi?target=MultiTarget-Sites-US-North", 
+        "desc": "Ping Times to Sites in US North", 
+        "time": 20
+    }, 
+    {
+        "url": "http://measurement-displays.sc17.org/smokeping/smokeping.cgi?target=Pathes", 
+        "desc": "Ping Times to Europe", 
+        "time": 20
+    }, 
+    {
+        "url": "http://measurement-displays.sc17.org/wattsup/linechart.html", 
+        "desc": "SCinet Coffee Maker", 
+        "time": 20
+    }, 
+    {
+        "url": "http://ferst.sc17.org/", 
+        "desc": "NetFlow Analysis", 
+        "time": 20
+    }, 
+    {
+        "url": "http://measurement-displays.sc17.org:88/main/overview/?nonav=1", 
+        "desc": "Wifi Status Page", 
+        "time": 20
+    }, 
+    {
+        "url": "http://measurement.sc17.org/showfloor-heatmap/", 
+        "desc": "(Almost) Real-Time Wifi-Client Heatmap", 
+        "time": 20
+    }, 
+    {
+        "url": "https://inmon.sc17.org/inmsf/Q/sflowtcp.js", 
+        "desc": "Passive TCP Performance Monitoring with Host-sFlow", 
+        "time": 20
+    }, 
+    {
+        "url": "http://techwood.sc17.org", 
+        "desc": "Network Utilization Map", 
+        "time": 20
+    }, 
+    {
+        "url": "http://inmon.sc17.org/inmsf/Q/total_traffic.js", 
+        "desc": "Total Traffic", 
+        "time": 20
+    }, 
+    {
+        "url": "http://inmon.sc17.org/sflow-rt/app/vizceral/html/", 
+        "desc": "NetFlix Vizceral Intuition Tool - Powered by InMon sFlow-RT", 
+        "time": 20
+    }, 
+    {
+        "url": "http://dashboard-perfsonar.sc17.org/maddash-webui/index.cgi?grid=SC17%20-%20Denver%2C%20Colorado%20-%201g%20Bandwidth%20%20Test%20Between%20SC%20and%20Outside%20Hosts", 
+        "desc": "PerfSONAR 1GB Bandwidth Test Between SC and Outside Hosts", 
+        "time": 10
+    }, 
+    {
+        "url": "http://dashboard-perfsonar.sc17.org/maddash-webui/index.cgi?grid=SC17%20-%20Denver%2C%20Colorado%20-%20OWAMP%20Hosts", 
+        "desc": "PerfSONAR OWAMP Hosts", 
+        "time": 10
+    }, 
+    {
+        "url": "http://dashboard-perfsonar.sc17.org/maddash-webui/index.cgi?grid=SC17%20-%20Denver%2C%20Colorado%20-%2010g%20Bandwidth%20Test%20Between%20SC%20and%20Outisde%20Hosts", 
+        "desc": "PerfSONAR 10GB Bandwidth Test Between SC and Outside Hosts", 
+        "time": 10
+    }
+]
